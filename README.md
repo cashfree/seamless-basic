@@ -1,1 +1,1 @@
-This repository contains example code for js based seamless integration of CashFree PG. Extensive documentation is available at http://docs.gocashfree.com/docs/v1/. Please contact us at support@gocashfree.com for more information. 
+This repository contains example code for js based seamless integration of CashFree PG. Extensive documentation is available at https://docs.gocashfree.com/docs/whitelabel/guide/. Please contact us at support@gocashfree.com for more information. 
