@@ -26,7 +26,7 @@ $paymentToken = base64_encode($token);
 <html>
   <head>
     <title>PayForm</title>
-    <script src="http://www.gocashfree.com/assets/cashfree.sdk.v1.js" type="text/javascript"></script>
+    <script src="http://www.cashfree.com/assets/cashfree.sdk.v1.1.js" type="text/javascript"></script>
   </head>
   <body>
     <script type="text/javascript">  
